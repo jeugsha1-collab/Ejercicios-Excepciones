@@ -68,3 +68,20 @@ public class estudiantes {
         }
     }
 }
+
+/*
+PASOS PARA SUBIR EL PROYECTO A GITHUB:
+1. Entrar a la carpeta del proyecto.
+2. Inicializar Git: git init
+3. Agregar archivos: git add .
+4. Guardar cambios: git commit -m "Primera version"
+5. Verificar remoto: git remote -v
+6. Configurar el remoto si es necesario.
+7. Cambiar la rama: git branch -M main
+8. Subir a GitHub: git push -u origen main
+
+PARA ACTUALIZAR:
+git add .
+git commit -m "Actualizar proyecto"
+git push
+*/
